@@ -1,0 +1,42 @@
+
+body{
+    background-image: url("../Img/F8.jpg");}
+.h1{
+    font-family: "MV Boli";
+border-bottom: 5px double black;
+text-align: center;
+font-size: 35px;
+color: rgb(235, 8, 140);
+}
+.h1:hover{color: rgb(15, 255, 243);}
+.b1{
+    padding: 40px 100px;
+    left: 100px;
+    position: absolute;
+    background-color: rgb(248, 252, 33);
+    font-size: 20px;
+    font-family: "Arial Black";
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    background-image: url("../Img/b6.jpg");
+}
+.b2{
+    padding: 40px 100px;
+    left: 600px;
+    position: absolute;
+    background-color: rgb(5, 25, 141);
+    font-size: 20px;
+    font-family: "Arial Black";
+    text-decoration: none;
+    color: ghostwhite;
+        border-radius: 15px;
+        background-image: url("../Img/b5.jpg");
+}
+.i1{
+    float: right;
+      border-radius: 130px;
+
+
+
+

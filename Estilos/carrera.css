@@ -1,0 +1,50 @@
+body{
+    background-image: url("../Img/F4.jpg");}
+
+    .h1{
+        font-family: "MV Boli";
+        border-bottom: 5px double black;
+        text-align: center;
+        font-size: 35px;
+        color: rgb(248, 252, 33)
+    }
+    .h1:hover{color: rgb(253, 253, 253);}
+.p1{
+    color: honeydew;
+    font-family: "Bookman Old Style";
+}
+
+.b1{
+    padding: 40px 100px;
+    left: 200px;
+    position: absolute;
+    background-color: rgb(248, 252, 33);
+    font-size: 20px;
+    font-family: "Arial Black";
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    background-image: url("../Img/b6.jpg");
+}
+.b1:hover:hover{
+    border-radius: 15px;
+    color: rgb(255, 208, 0);
+}
+
+
+.b2{
+    padding: 40px 100px;
+    left: 500px;
+    position: absolute;
+    background-color: rgb(5, 25, 141);
+    font-size: 20px;
+    font-family: "Arial Black";
+    text-decoration: none;
+    color: ghostwhite;
+        border-radius: 15px;
+        background-image: url("../Img/b5.jpg");
+}
+
+.b2:hover{
+    border-radius: 15px;
+    color: darkblue;
